@@ -23,10 +23,6 @@ Here are the features I specialize in:
   Full-featured bot with automation, moderation, logging, permissions, custom commands, music, and games.  
   [🔗 View Code](https://github.com/ApBaDb/discord-bot-suite)
 
-- **Minecraft Thumbnail Automation**  
-  🖼️ Photoshop scripts to batch-create thumbnails.  
-  [🔗 View Demo](https://github.com/ApBaDb/minecraft-thumbnails)
-
 - **Python Automation Scripts**  
   ⚙️ Tools for everyday tasks and experiments.  
   [🔗 View Code](https://github.com/ApBaDb/python-scripts)
