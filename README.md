@@ -55,7 +55,9 @@ This project highlights my ability to combine **technical automation** with **cr
 
 ## 📫 Contact
 - 🔗 GitHub: [ApBaDb](https://github.com/ApBaDb)  
-- 💬 Discord: **imtheonlyone_67**
+- 💬 Discord: **imtheonlyone_67** 
+- 💬 Discord: [Join my server](https://discord.gg/TQ77BCEJBP)  
+-- 📧 Email: [soliddontop@outlook.com](mailto:soliddontop@outlook.com)
 
 ---
 ✨ *Building creative tools, one project at a time.*
