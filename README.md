@@ -30,13 +30,22 @@ Here are the features I specialize in:
 - **Python Automation Scripts**  
   ⚙️ Tools for everyday tasks and experiments.  
   [🔗 View Code](https://github.com/ApBaDb/python-scripts)
+  
+  ## 📈 Content Growth
+I also help creators grow their YouTube channels by focusing on:
+- 🎯 Strategy — optimizing titles, thumbnails, and posting schedules
+- 📊 Analytics — tracking performance and improving engagement
+- ⚙️ Automation — using scripts and tools to save time
+- 🤝 Community — building loyal audiences through interaction
+
+This project highlights my ability to combine **technical automation** with **creative growth tactics**, giving creators the tools and strategies to scale their content.
 
 ---
 
 ## 🛠 Skills
 - 🐍 Python (Discord.py, automation, scripting)
 - 🎨 Photoshop basics (thumbnail workflows)
-- 🌐 Community management (Discord servers)
+- 🌐 Community management (Discord servers,content)
 
 ---
 
