@@ -27,12 +27,15 @@ Here are the features I specialize in:
   ⚙️ Tools for everyday tasks and experiments.  
   [🔗 View Code](https://github.com/ApBaDb/python-scripts)
   
-  ## 📈 Content Growth
+## 📈 Content Growth
+
 I also help creators grow their YouTube channels by focusing on:
-- 🎯 Strategy — optimizing titles, thumbnails, and posting schedules
-- 📊 Analytics — tracking performance and improving engagement
-- ⚙️ Automation — using scripts and tools to save time
-- 🤝 Community — building loyal audiences through interaction
+- 🎯 Strategy — optimizing titles, thumbnails, and posting schedules  
+- 📊 Analytics — tracking performance and improving engagement  
+- ⚙️ Automation — using scripts and tools to save time  
+- 🤝 Community — building loyal audiences through interaction  
+
+🔗 [View Strategy](https://github.com/ApBaDb/youtube-growth-strategy)
 
 This project highlights my ability to combine **technical automation** with **creative growth tactics**, giving creators the tools and strategies to scale their content.
 
